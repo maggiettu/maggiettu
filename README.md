@@ -1,5 +1,5 @@
-- 👋 hey there, I’m @maggiettu !!
+- 👋 hi, I’m @maggiettu !!
 - 👩🏻‍🎓 i’m a first year cs student at the University of British Columbia 
-- 🌱 i’m currently learning web dev outside of classes
-- 🙆🏻‍♀️ i'm prepping for (hopefully) an internship in the summer
+- 🌱 i’m currently learning java
+- 🙆🏻‍♀️ plshiremeplsplsplsplsplpsl
 - 🦭 thanks for reading :)
